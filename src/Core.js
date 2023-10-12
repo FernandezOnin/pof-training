@@ -6,8 +6,8 @@ function Core() {
   return (
     <div>
       <div>
-        {/* <Home/> */}
-        <Statistics/>
+        <Home/>
+        {/* <Statistics/> */}
       </div>
     </div>
 
